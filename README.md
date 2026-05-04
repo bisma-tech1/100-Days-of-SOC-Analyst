@@ -1,5 +1,5 @@
 # 🛡️ Day 01: SOC Fundamentals & Security Operations | 100 Days Challenge
-
+![Day 01 Summary](./day01.png)
 ## 🚀 Mission Statement
 To bridge the gap between academic qualifications and industry-grade skills. I have embarked on this 100-day journey to master Security Operations (SOC) and prove that **technical obsession (Zid) and consistent skill-building** outweigh traditional degrees.
 
